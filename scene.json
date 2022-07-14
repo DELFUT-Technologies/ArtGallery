@@ -1,0 +1,39 @@
+{
+  "display": {
+    "title": "art-gallery",
+    "description": "art-gallery",
+    "navmapThumbnail": "images/META_TYCOON_REVISE_2.jpg",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Yoo-Lee",
+    "email": ""
+  },
+  "owner": "Yoo-Lee",
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "51,80"
+    ],
+    "base": "51,80"
+  },
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 1,
+        "z": 8
+      }
+    }
+  ],
+  "requiredPermissions": [],
+  "featureToggles": {}
+}
